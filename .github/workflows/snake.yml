@@ -20,7 +20,7 @@ jobs:
             ./output/github-contribution-grid-snake.svg
             ./output/github-contribution-grid-snake-dark.svg
           theme: github-light
-          theme_dark: github-dark  # <- this ensures different styling
+          theme_dark: github-dark
 
       - name: Push the generated files
         uses: EndBug/add-and-commit@v9
@@ -29,3 +29,4 @@ jobs:
           author_email: github-actions@github.com
           message: "chore: generate snake contribution grid"
           add: "output/*.svg"
+          force: true       # ✅ ADD THIS LINE
