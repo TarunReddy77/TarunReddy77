@@ -70,7 +70,7 @@
 ### 🌱 Contribution Heatmap
 
 <p align="center">
-  <img src=["https://github-readme-streak-stats.herokuapp.com/?user=TarunReddy77&theme=default"](https://github-readme-streak-stats.herokuapp.com/?user=TarunReddy77&theme=tokyonight) />
+  <img src="https://streak-stats.demolab.com?user=TarunReddy77&theme=tokyonight" />
 </p>
 
 ---
