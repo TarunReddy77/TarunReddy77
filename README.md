@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://tarunreddy77.github.io/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://tarunreddy77.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/tarun-reddy"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:tarutornado@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
@@ -26,13 +26,13 @@
 ### 🧠 My Toolkit
 
 **Languages**  
-`Python`, `JavaScript`, `TypeScript`, `SQL`, `Java`, `C++`
+`Python`, `JavaScript`, `TypeScript`, `SQL`, `Java`, `Bash`
 
 **Frameworks & Libraries**  
 `PyTorch`, `TensorFlow`, `Transformers`, `LangChain`, `FastAPI`, `scikit-learn`, `Vue.js`, `React`
 
 **Data & Deployment**  
-`PostgreSQL`, `MongoDB`, `Pinecone`, `FAISS`, `Weaviate`, `AWS`, `Docker`, `Render`, `GitHub Actions`
+`PostgreSQL`, `MongoDB`, `Pinecone`, `FAISS`, `Weaviate`, `AWS`, `Docker`, `Render`, `GitHub Actions`, 'Jenkins`
 
 ---
 
@@ -52,7 +52,7 @@
 ### 📌 Pinned Repositories
 
 <p align="center">
-  <a href="https://github.com/TarunReddy77/rag-chatbot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TarunReddy77&repo=rag-chatbot&theme=default" /></a>
+  <a href="https://github.com/TarunReddy77/rag-backend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TarunReddy77&repo=rag-chatbot&theme=default" /></a>
   <a href="https://github.com/TarunReddy77/stock-rl-trading"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TarunReddy77&repo=stock-rl-trading&theme=default" /></a>
 </p>
 
@@ -70,7 +70,7 @@
 ### 🌱 Contribution Heatmap
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarunReddy77&theme=default" />
+  <img src=["https://github-readme-streak-stats.herokuapp.com/?user=TarunReddy77&theme=default"](https://github-readme-streak-stats.herokuapp.com/?user=TarunReddy77&theme=tokyonight) />
 </p>
 
 ---
