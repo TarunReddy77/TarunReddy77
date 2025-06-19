@@ -19,6 +19,8 @@ jobs:
           outputs: |
             ./output/github-contribution-grid-snake.svg
             ./output/github-contribution-grid-snake-dark.svg
+          theme: github-light
+          theme_dark: github-dark  # <- this ensures different styling
 
       - name: Push the generated files
         uses: EndBug/add-and-commit@v9
