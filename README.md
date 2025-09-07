@@ -30,7 +30,7 @@
 - Integrated multimodal document ingestion (PDF, HTML, Markdown) and deployed with **Streamlit + FastAPI** on **Render**
 
 #### 📈 RL-Based Stock Trading Agent
-[🔗 GitHub]([https://github.com/TarunReddy77/stock-rl-trading](https://github.com/TarunReddy77/Reinforcement-Learning-based-Portfolio-Optimization))
+[🔗 GitHub](https://github.com/TarunReddy77/Reinforcement-Learning-based-Portfolio-Optimization)
 - Developed a Gym-compatible trading environment and trained agents with **PPO**, **Rainbow DQN**, and **A2C**
 - Evaluated using **Sharpe Ratio**, **Max Drawdown**, and backtesting on **yFinance** data
 
