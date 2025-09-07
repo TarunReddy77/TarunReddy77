@@ -25,7 +25,7 @@
 ### 🚀 Featured Projects
 
 #### 🧠 GenAI Chatbot with RAG & Agentic AI
-[🔗 GitHub](https://github.com/TarunReddy77/rag-chatbot)
+[🔗 GitHub](https://github.com/TarunReddy77/rag-backend)
 - Built a production-grade chatbot using **LangChain**, **Pinecone**, **OpenAI**, and **Crew AI**
 - Integrated multimodal document ingestion (PDF, HTML, Markdown) and deployed with **Streamlit + FastAPI** on **Render**
 
